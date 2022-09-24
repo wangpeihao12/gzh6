@@ -2,7 +2,7 @@ import random
 from time import localtime
 from requests import get, post
 from datetime import datetime, date
-#from zhdate import ZhDate                                                    #农历和公立转化用的
+from zhdate import ZhDate                                                    #农历和公立转化用的
 import sys
 import os
  
